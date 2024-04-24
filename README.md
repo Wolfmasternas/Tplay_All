@@ -10,7 +10,7 @@ Converted to a single repo to make it a one click deploy on vercel as a lot of y
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/lalitjoshi06/tataplay_url.git"><img src="https://vercel.com/button" alt="Deploy"/></a><br>
 You will need an account on Vercel. It's free!
 
-[![Deploy with Render](https://i.imgur.com/JkdoWmY.png)](https://render.com/deploy?repo=https://github.com/lalitjoshi06/tataplay_url)
+[![Deploy with Render](https://i.imgur.com/JkdoWmY.png)](https://render.com/deploy?repo=https://github.com/Wolfmasternas/Tplay_All)
 You will need an account on Render. It's free!
 3) Enjoy!
 ## Run locally (You need a little bit of git and npm knowledge)
